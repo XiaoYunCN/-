@@ -13,5 +13,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/VIP/main/%E
 ```
 
 ### 加入 Discord 云中心脚本
-点击下面的链接加入 [Discord]
+点击下面的链接加入 
+[Discord]
 (https://discord.gg/BuZwECkFCR)
